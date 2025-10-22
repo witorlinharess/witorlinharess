@@ -22,4 +22,4 @@
 <h3>🏆 My Skills</h3>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,javascript,firebase,postgres,docker,kubernetes,dart,flutter,react,cloudflare,figma,git,github)]()
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,javascript,dart,flutter,react,firebase,postgres,docker,kubernetes,cloudflare,figma,git,github)]()
