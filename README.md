@@ -1,6 +1,8 @@
 <h1>Hi, welcome to my github profile! 😃</h1>
 <br>
-<p>I'm Witor Linhares, and I build the foundations of digital buildings. As a software engineer and full-stack programmer, my focus is ensuring the structure is solid enough to support ten or a hundred floors. I translate complex business problems into clean code and backend architectures that are not only functional, but also resilient, performant, and ready for growth.</p>
+<p>I'm Witor Linhares, Full-stack developer specializing in creating complete solutions from backend to frontend, focusing on performance, scalability, and user experience.
+
+I work developing systems, websites, and web platforms that solve real business problems, combining modern technology and best software engineering practices.</p>
 
 <br>
 
@@ -17,9 +19,9 @@
 
 <br>
 
-![Witor Linhares](https://github-readme-stats.vercel.app/api?username=witorlinharess&show_icons=true&bg_color=00000000)
+![Witor Linhares](https://github-readme-stats.vercel.app/api?username=witorlinharess&show_icons=true&theme=radical)
 <br>
 <h3>🏆 My Skills</h3>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,javascript,dart,flutter,react,firebase,postgres,docker,kubernetes,cloudflare,figma,git,github)]()
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,javascript,react,typescript,tailwind,postgres,cloudflare,figma,git,github)]()
