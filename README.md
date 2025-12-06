@@ -19,7 +19,7 @@ I work developing systems, websites, and web platforms that solve real business 
 
 <br>
 
-![GitHub Stats](https://stats-pi-lemon.vercel.app/api?username=witorlinharess&theme=dark)
+![GitHub Stats](https://api-stats-wl.vercel.app/api?username=witorlinharess&theme=dark)
 <br>
 <h3>🏆 My Skills</h3>
 <br>
