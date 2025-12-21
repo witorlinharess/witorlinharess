@@ -19,7 +19,7 @@ I work developing systems, websites, and web platforms that solve real business 
 
 <br>
 
-![GitHub Stats](https://api-stats-wl.vercel.app/api?username=witorlinharess&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=witorlinharess&show_icons=true&theme=radical)
 <br>
 <h3>🏆 My Skills</h3>
 <br>
