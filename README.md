@@ -24,4 +24,4 @@ I work developing systems, websites, and web platforms that solve real business 
 <h3>🏆 My Skills</h3>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,react,typescript,tailwind,next,postgres,cloudflare,figma,git,github)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,react,typescript,tailwind,next,postgres,vercel,cloudflare,figma,git,github)]()
