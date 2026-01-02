@@ -15,12 +15,6 @@ I work developing systems, websites, and web platforms that solve real business 
 
 <br>
 
-<h3>⭐ Github stats</h3>
-
-<br>
-
-![GitHub Stats](https://api-stats-wl.vercel.app/api?username=witorlinharess&theme=dark)
-<br>
 <h3>🏆 My Skills</h3>
 <br>
 
