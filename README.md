@@ -12,10 +12,3 @@ I work developing systems, websites, and web platforms that solve real business 
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/witorlinhares/)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:witorlinhares@gmail.com)
-
-<br>
-
-<h3>🏆 My Skills</h3>
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,react,typescript,tailwind,next,postgres,vercel,cloudflare,figma,git,github)]()
