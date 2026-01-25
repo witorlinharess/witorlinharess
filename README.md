@@ -1,12 +1,16 @@
-<h1>Hi, welcome to my github profile! 😃</h1>
+<h1>Seja bem-vindo ao meu Github!</h1>
 <br>
-<p>I'm Witor Linhares, Full-stack developer specializing in creating complete solutions from backend to frontend, focusing on performance, scalability, and user experience.
+<p></p>Atuo como desenvolvedor full stack e diretor da Wefronti com uma visão que vai além do código. Tecnologia só faz sentido quando sustenta pessoas, decisões e operações reais.
 
-I work developing systems, websites, and web platforms that solve real business problems, combining modern technology and best software engineering practices.</p>
+No meu dia a dia, o maior desafio não está na linguagem ou na arquitetura, mas no entendimento do contexto, das responsabilidades envolvidas e do impacto que cada sistema gera no negócio. Bons sistemas nascem de boas conversas, alinhamento humano e decisões técnicas conscientes.
+
+Código é ferramenta. Compromisso, clareza e continuidade são o que fazem a tecnologia funcionar no mundo real.
+
+Hoje concentro meu trabalho na construção de soluções digitais que fazem parte da operação das empresas, sempre com responsabilidade, visão de longo prazo e respeito por quem está do outro lado.</p>
 
 <br>
 
-<h3>🔎 Where to find me:</h3>
+<h3>Vamos conversar:</h3>
 
 <br>
 
