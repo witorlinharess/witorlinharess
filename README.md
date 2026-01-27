@@ -1,6 +1,6 @@
 <h1>Seja bem-vindo ao meu Github!</h1>
 <br>
-<p></p>Atuo como Desenvolvedor backend e diretor da Wefronti com uma visão que vai além do código. Tecnologia só faz sentido quando sustenta pessoas, decisões e operações reais.
+<p></p>Atuo como Desenvolvedor Backend e diretor da Wefronti com uma visão que vai além do código. Tecnologia só faz sentido quando sustenta pessoas, decisões e operações reais.
 
 No meu dia a dia, o maior desafio não está na linguagem ou na arquitetura, mas no entendimento do contexto, das responsabilidades envolvidas e do impacto que cada sistema gera no negócio. Bons sistemas nascem de boas conversas, alinhamento humano e decisões técnicas conscientes.
 
