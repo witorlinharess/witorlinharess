@@ -1,14 +1,20 @@
 <h1>Seja bem-vindo ao meu Github!</h1>
 <br>
-<p>Sou Witor Linhares, desenvolvedor backend com atuação na construção, evolução e sustentação de sistemas que suportam aplicações reais em produção.
+<p>Sou Witor Linhares, desenvolvedor Backend com foco no ecossistema .NET e construção de sistemas web. Meu trabalho é transformar regras de negócio em softwares funcionais, seguros e fáceis de manter.
 
-Trabalho com o desenvolvimento de soluções backend focadas em confiabilidade, escalabilidade e impacto no negócio. Meu papel envolve decisões técnicas que garantem que o software continue funcionando e evoluindo de forma segura ao longo do tempo, não apenas a implementação de funcionalidades isoladas.
+No dia a dia, utilizo o C# e o ASP.NET para criar o motor técnico de aplicações que rodam no navegador, garantindo que a comunicação entre o usuário e os dados seja eficiente. Desenvolvo em ambiente Linux, utilizando Docker para padronizar o ambiente e facilitar o deploy em infraestruturas de Cloud.
 
-Atuo com C# e .NET, utilizando ASP.NET Core no desenvolvimento de APIs e serviços responsáveis por regras de negócio, integrações entre sistemas e persistência de dados em bancos SQL. As soluções são pensadas para atender necessidades reais de operação, evitando complexidade desnecessária e dívida técnica precoce.
+Minha stack principal:
 
-Também lido com a execução e entrega das aplicações, utilizando Docker, ambientes Linux e pipelines de CI/CD, garantindo que o software opere de forma consistente fora do ambiente de desenvolvimento.
+Linguagem: C#
 
-Trabalho com empresas que buscam parceiros técnicos para resolver problemas reais com tecnologia, da concepção à operação em produção.</p>
+Web: ASP.NET
+
+Banco de Dados: SQL Server
+
+Infra: Linux e Cloud (Azure)
+
+Seja para tirar um projeto do papel ou para dar manutenção em sistemas existentes, meu compromisso é entregar resultado, garantir a entrega e um código que não gera dor de cabeça.</p>
 
 <br>
 
