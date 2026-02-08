@@ -10,9 +10,9 @@ Linguagem: C#
 
 Web: ASP.NET
 
-Banco de Dados: SQL Server
+Banco de Dados: PostgreSQL
 
-Infra: Linux e Cloud (Azure)
+Infra: Cloud, Docker, Linux
 
 Seja para tirar um projeto do papel ou para dar manutenção em sistemas existentes, meu compromisso é entregar resultado, garantir a entrega e um código que não gera dor de cabeça.</p>
 
